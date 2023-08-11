@@ -1,0 +1,99 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/stroke---primary.py
+inputModule3:
+  class: File
+  path: python/stroke-tia---primary.py
+inputModule4:
+  class: File
+  path: python/stroke-monitoring---primary.py
+inputModule5:
+  class: File
+  path: python/referral-stroke---primary.py
+inputModule6:
+  class: File
+  path: python/clinic-stroke---primary.py
+inputModule7:
+  class: File
+  path: python/stroke-cereb---primary.py
+inputModule8:
+  class: File
+  path: python/stroke-haemorrhage---primary.py
+inputModule9:
+  class: File
+  path: python/stroke-capsule---primary.py
+inputModule10:
+  class: File
+  path: python/stroke-basal---primary.py
+inputModule11:
+  class: File
+  path: python/stroke-stenosis---primary.py
+inputModule12:
+  class: File
+  path: python/stroke-infarctn---primary.py
+inputModule13:
+  class: File
+  path: python/stroke-precerebr---primary.py
+inputModule14:
+  class: File
+  path: python/stroke-occlus---primary.py
+inputModule15:
+  class: File
+  path: python/stroke-brainstem---primary.py
+inputModule16:
+  class: File
+  path: python/stroke-wallenberg---primary.py
+inputModule17:
+  class: File
+  path: python/stroke-attack---primary.py
+inputModule18:
+  class: File
+  path: python/ischaemic-stroke---primary.py
+inputModule19:
+  class: File
+  path: python/basilar-stroke---primary.py
+inputModule20:
+  class: File
+  path: python/stroke-artery---primary.py
+inputModule21:
+  class: File
+  path: python/stroke-hemisphere---primary.py
+inputModule22:
+  class: File
+  path: python/stroke-unspecified---primary.py
+inputModule23:
+  class: File
+  path: python/stroke-lacunar---primary.py
+inputModule24:
+  class: File
+  path: python/stroke-sided---primary.py
+inputModule25:
+  class: File
+  path: python/right-stroke---primary.py
+inputModule26:
+  class: File
+  path: python/stroke-hmorrhage---primary.py
+inputModule27:
+  class: File
+  path: python/stroke-puerperium---primary.py
+inputModule28:
+  class: File
+  path: python/stroke-history---primary.py
+inputModule29:
+  class: File
+  path: python/stroke-attacks---primary.py
+inputModule30:
+  class: File
+  path: python/cerebrovascular-stroke---primary.py
+inputModule31:
+  class: File
+  path: python/stroke-cva---primary.py
+inputModule32:
+  class: File
+  path: python/poststroke---primary.py
+inputModule33:
+  class: File
+  path: python/output-cases.py
